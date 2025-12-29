@@ -1,4 +1,4 @@
-## Hi there! We are World Social 👋
+## Hi there! We are the World Social Dev Team 👋
 
 <!--
 
